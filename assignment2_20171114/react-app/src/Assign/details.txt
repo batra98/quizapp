@@ -1,0 +1,5 @@
+Client Id
+79xxzLy2VoTQVgo9pD2MOrA24UiZCANT
+
+Client Secret
+IcPgVb4iEImXT0rX-l566Wz15gbt8X8MgX4uzFWzDfu0WlRGTcS9r2aiCIXlFHIx

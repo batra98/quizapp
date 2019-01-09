@@ -1,0 +1,33 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 70px;
+    padding: 2px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .formContainer {
+    
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: larger;
+    
+  
+  }
+  table{
+      width: 1024px;
+      text-align: left;
+  }
+  

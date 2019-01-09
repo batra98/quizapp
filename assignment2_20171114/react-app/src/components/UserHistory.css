@@ -1,0 +1,32 @@
+.history_wrapper{float:left; width:100%; display:block; box-shadow:0 0 5px #aaa;}
+
+.history_header,.history_body{float:left; width:100%;}
+
+.history_list{float:left; width:100%; border-top:1px solid rgba(0,0,0,0.3);border-bottom:1px solid rgba(0,0,0,0.3); padding:0px 5px;}
+.history_header .history_header_product{float:left; width:40%; padding:0 10px; font-size:20px; text-align:left; }
+
+.history_header .history_header_quantity{float:left; width:20%; padding:0 10px; font-size:20px; text-align:left; }
+
+.history_header .history_header_size{float:left; width:20%; padding:0 10px; font-size:20px; text-align:left; }
+
+.history_header .history_header_date{float:left; width:20%; padding:0 10px; font-size:20px; text-align:left; }
+
+.history_item_name{text-align:left; width:40%; float:left;}
+
+.history_item_name span.item_name{float:left; width:100%; padding:10px 0px;}
+
+.history_item_quantity,.history_item_size{float:left; width:20%;}
+
+.history_item_quantity span.item_quantity,.history_item_size span.item_size{ text-align:center; padding:10px 0; float:left; width:100%;}
+
+.history_item_date{float:left; width:20%;}
+
+.history_item_date span.item_date{float:left; width:100%;}
+
+.history_list_footer{float:left; width:100%;border-top:1px solid rgba(0,0,0,0.2); padding:10px 0px;}
+
+.history_list_footer .label{float:left;}
+
+.histroy date{float:left; font-weight:600;}
+
+.histroy_total{float:right;}
